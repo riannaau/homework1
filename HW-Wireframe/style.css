@@ -1,0 +1,82 @@
+<style type="text/css">
+		
+<style>
+
+	#container{background-color: gray;
+		padding-top: 5px;
+			width: 1300px;
+			height:800px;
+			}
+		
+		.col{
+			margin-left: 100px;
+			width: 1000px;
+			height: 100px;
+			background-color: gainsboro;
+			}
+
+			.col2{
+				float:left;
+			margin-left: 100px;
+			margin-top: 20px;
+			width: 550px;
+			height: 300px;
+			background-color: gainsboro;
+			}
+
+			.smallgray{
+			margin-left: 25px;
+			margin-top: 50px;
+			width: 500px;
+			height: 200px;
+			background-color: gray;
+			}
+
+			.smallergray1{
+			margin-left: 10px;
+			margin-top: 25px;
+			width: 480px;
+			height: 50px;
+			background-color: gainsboro;
+			}
+
+				.smallergray2{
+			margin-left: 10px;
+			width: 480px;
+			height: 50px;
+			background-color: gainsboro;
+			}
+
+			.col3{
+				float:left;
+			margin-left: 20px;
+			margin-top: 20px;
+			margin-bottom: 20px;
+			/*i had to do the margin bottom here to give it some space
+			the margin top did not apply in the footer!!*/
+			width: 430px;
+			height: 300px;
+			background-color: gainsboro;
+			}
+
+			.clear {
+			clear: left;}
+
+			.p1{
+				text-align: center;
+				color:gray;
+				line-height: 100px;
+				}
+
+				.p2{text-align: center;
+				color:gray;}
+
+				.p3{text-align: center;
+				color:white;
+				padding:10px;}
+
+				.p4{text-align: center;
+				padding:10px;
+				color:gray;}
+	</style> 
+	</style>
